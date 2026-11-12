@@ -1,13 +1,13 @@
-const arr = [2,7,11,15]
-let target = 9
-let map = new Map()
+// const arr = [2,7,11,15]
+// let target = 9
+// let map = n9ew Map()
 
-for(let i=0; i<arr.length - 1; i++) {
-  if(arr.includes(target - arr[i])) {
-    console.log(arr.indexOf(arr[i]), arr.indexOf(target - arr[i]))
-    break
-  }
-}
+// for(let i=0; i<arr.length - 1; i++) {
+//   if(arr.includes(target - arr[i])) {
+//     console.log(arr.indexOf(arr[i]), arr.indexOf(target - arr[i]))
+//     break
+//   }
+// }
 
 
 const arr = [5,3,4,3,5];
